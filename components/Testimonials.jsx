@@ -15,7 +15,7 @@ const Testimonials = () => {
           <img src="img/avatar-anisha.png" className="w-16 -mt-14" alt="" />
           <h5 className="text-lg font-bold">Anisha Li</h5>
           <p className="">
-          &ldquo; Manage has supercharged our team's workflow. The ability to
+          &ldquo; Manage has supercharged our team&apos;s workflow. The ability to
             maintain visibility on larger milestones at all times keeps everyone
             motivated.&rdquo;
           </p>
@@ -35,7 +35,7 @@ const Testimonials = () => {
           <img src="img/avatar-richard.png" className="w-16 -mt-14" alt="" />
           <h5 className="text-lg font-bold">Richard Watts</h5>
           <p className="">
-          &ldquo; Manage has supercharged our team's workflow. The ability to
+          &ldquo; Manage has supercharged our team&apos;s workflow. The ability to
             maintain visibility on larger milestones at all times keeps everyone
             motivated.&rdquo;
           </p>
