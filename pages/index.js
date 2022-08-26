@@ -6,6 +6,7 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Cta from '../components/Cta'
 import Footer from '../components/Footer'
+import Mymodal from '../components/Mymodal'
 
 
 export default function Home() {
@@ -14,11 +15,12 @@ export default function Home() {
       <Head>
         <title>Tailwind Training</title>
         <meta name="description" content="Tailwind training" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.ico" />
       </Head>
 
       <Navbar />
       <Hero />
+      <Mymodal />
       <Features />
       <Testimonials />
       <Cta />
